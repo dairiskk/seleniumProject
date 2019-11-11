@@ -41,6 +41,8 @@
             <artifactId>selenium-java</artifactId>
             <version>3.141.5</version>
         </dependency>
+
+
     </dependencies>
 
     <build>

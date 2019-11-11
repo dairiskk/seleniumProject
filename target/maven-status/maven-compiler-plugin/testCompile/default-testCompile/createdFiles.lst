@@ -1,2 +1,4 @@
-Steps\MyStepdefs.class
 RunCucumberTest.class
+Steps\MyStepdefs.class
+Constants\ConfigConstants.class
+Helpers\ConfigReader.class
